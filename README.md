@@ -10,8 +10,6 @@
 💬 Ask me about **React.js, Next.js, React-native**
 
 📫 How to reach me **sakshat551@gmail.com**
-  
-⚡ Fun fact **You are worthy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
