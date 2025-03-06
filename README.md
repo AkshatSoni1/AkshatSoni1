@@ -20,6 +20,8 @@
 <a href="https://auth.geeksforgeeks.org/user/akshatsoni0210/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akshatsoni0210/profile" height="30" width="40" /></a>
 </p>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Akshat_Soni_0210?theme=monokai)
+
 <h3 align="left">Skills</h3>
 <p align="left"> 
   <h4 align="left">Languages</h4>
@@ -49,3 +51,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 </p>
+
+<!--
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshatSoni1&hide=HTML&langs_count=8&layout=compact&theme=vue&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+-->
